@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* Nav */
+.nav-item{
+  margin:0 1rem;
+}
+
+.nav-icon{
+  margin:auto 1rem;
+}
+
+
+/* Intro */
+
+.intro{
+  height:40rem;
+  background-color: black;
+  /* margin: 0 1rem; */
+  background-image: url('https://www.mymove.com/wp-content/uploads/2020/05/Small-backyard_Artazum_Shutterstock-4-scaled.jpg');
+  background-size: contain;
+  background-repeat:no-repeat ;
+  opacity: 90;
+}
